@@ -32,7 +32,67 @@ dimwishlist:item=1097616550&perks=1482024992,3142289711,2387244414,3425386926
 //Far Future
 //notes:PvP Roll
 dimwishlist:item=893527433&perks=1482024992,3142289711,706527188,47981717
+dimwishlist:item=893527433&perks=839105230,3142289711,706527188,47981717
+
+//Frozen Orbit
+//notes:PvP Roll
+dimwishlist:item=3473290087&perks=1482024992,3142289711,2450788523,957782887
+dimwishlist:item=3473290087&perks=839105230,3142289711,2450788523,957782887
+
+//Igneous Hammer
+//notes:PvP Roll
+dimwishlist:item=2351180975&perks=3250034553,1885400500,706527188,3425386926
+dimwishlist:item=2351180975&perks=3250034553,1885400500,247725512,3425386926
+
+//Imperial Needle
+//notes:PvP Roll
+dimwishlist:item=3460122497&perks=3768438372,3429800428,201365942,4082225868
+dimwishlist:item=3460122497&perks=3768438372,3429800428,2450788523,4082225868
+
+//Multimach CCX
+//notes:PvP Roll
+dimwishlist:item=3717177717&perks=2209280307,3142289711,2450788523,1015611457
 
 //
 //notes:PvP Roll
-dimwishlist:item=--
+dimwishlist:item=
+
+//
+//notes:PvP Roll
+dimwishlist:item=
+
+//
+//notes:PvP Roll
+dimwishlist:item=
+
+//
+//notes:PvP Roll
+dimwishlist:item=
+
+//
+//notes:PvP Roll
+dimwishlist:item=
+
+//
+//notes:PvP Roll
+dimwishlist:item=
+
+//
+//notes:PvP Roll
+dimwishlist:item=
+
+//
+//notes:PvP Roll
+dimwishlist:item=
+
+//
+//notes:PvP Roll
+dimwishlist:item=
+
+//
+//notes:PvP Roll
+dimwishlist:item=
+
+//
+//notes:PvP Roll
+dimwishlist:item=
