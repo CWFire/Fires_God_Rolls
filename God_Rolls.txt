@@ -15,7 +15,7 @@ dimwishlist:item=1046651176&perks=1482024992,106909392,1168162263,3425386926 #no
 dimwishlist:item=1046651176&perks=1840239774,106909392,1168162263,3425386926 #notes:|tags:pve
 
 //Brass Attacks
-//notes:God Roll-
+//notes:God Roll
 dimwishlist:item=2121785039&perks=1482024992,1885400500,247725512,3425386926 #notes:|tags:pvp
 dimwishlist:item=2121785039&perks=1482024992,1087426260,2779035018,3425386926 #notes:|tags:pve
 dimwishlist:item=2121785039&perks=1482024992,1087426260,2779035018,4104185692 #notes:|tags:pve
@@ -96,9 +96,10 @@ dimwishlist:item=3504336176&perks=839105230,106909392,3643424744,3038247973 #not
 dimwishlist:item=3504336176&perks=839105230,3142289711,247725512,3038247973 #notes:pvp|tags:pvp
 dimwishlist:item=3504336176&perks=839105230,106909392,247725512,3038247973 #notes:pvp|tags:pvp
 
-//
+//Seventh Seraph Carbine
 //notes:God Roll
-dimwishlist:item=
+dimwishlist:item=1561006927&perks=4090651448,1087426260,1354429876,3425386926 #notes:pvp|tags:pve
+dimwishlist:item=1561006927&perks=3661387068,1087426260,1354429876,3425386926 #notes:pvp|tags:pve
 
 //
 //notes:God Roll
