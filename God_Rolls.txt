@@ -133,6 +133,21 @@ dimwishlist:item=3658188704&perks=3250034553,1561002382,247725512,3047969693  #n
 dimwishlist:item=dimwishlist:item=3856705927&perks=3250034553,1431678320,2846385770,3326204863 #notes:pvp|tags:pvp
 dimwishlist:item=dimwishlist:item=3856705927&perks=1482024992,1431678320,2846385770,3326204863 #notes:pvp|tags:pvp
 
+//Seventh Seraph Officer Revolver
+//notes:God Roll
+dimwishlist:item=3037520408&perks=4090651448,106909392,1354429876,2458213969 #notes:pvp|tags:pve
+dimwishlist:item=3037520408&perks=4090651448,106909392,1354429876,2779035018 #notes:pvp|tags:pve
+dimwishlist:item=3037520408&perks=4090651448,2010801679,1354429876,2458213969 #notes:pvp|tags:pve
+dimwishlist:item=3037520408&perks=4090651448,2010801679,1354429876,2779035018 #notes:pvp|tags:pve
+dimwishlist:item=3037520408&perks=1482024992,106909392,4071163871,2779035018 #notes:pvp|tags:pvp
+dimwishlist:item=3037520408&perks=1482024992,106909392,4071163871,1954620775 #notes:pvp|tags:pvp
+dimwishlist:item=3037520408&perks=4090651448,106909392,4071163871,2779035018 #notes:pvp|tags:pvp
+dimwishlist:item=3037520408&perks=4090651448,106909392,4071163871,1954620775 #notes:pvp|tags:pvp
+
+//
+//notes:God Roll
+dimwishlist:item=
+
 //
 //notes:God Roll
 dimwishlist:item=
@@ -141,3 +156,62 @@ dimwishlist:item=
 //notes:God Roll
 dimwishlist:item=
 
+//
+//notes:God Roll
+dimwishlist:item=
+
+//
+//notes:God Roll
+dimwishlist:item=
+
+//
+//notes:God Roll
+dimwishlist:item=
+
+//
+//notes:God Roll
+dimwishlist:item=
+
+//
+//notes:God Roll
+dimwishlist:item=
+
+//
+//notes:God Roll
+dimwishlist:item=
+
+//
+//notes:God Roll
+dimwishlist:item=
+
+//
+//notes:God Roll
+dimwishlist:item=
+
+//
+//notes:God Roll
+dimwishlist:item=
+
+//
+//notes:God Roll
+dimwishlist:item=
+
+//
+//notes:God Roll
+dimwishlist:item=
+
+//
+//notes:God Roll
+dimwishlist:item=
+
+//
+//notes:God Roll
+dimwishlist:item=
+
+//
+//notes:God Roll
+dimwishlist:item=
+
+//
+//notes:God Roll
+dimwishlist:item=
