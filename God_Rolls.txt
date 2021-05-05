@@ -206,9 +206,11 @@ dimwishlist:item=432476743&perks=3250034553,1885400500,1168162263,2846385770 #no
 dimwishlist:item=432476743&perks=4090651448,1885400500,1168162263,2846385770 #notes:pvp|tags:pvp
 dimwishlist:item=432476743&perks=1482024992,1885400500,1168162263,2846385770 #notes:pvp|tags:pvp
 
-//
+//Imperial Needle
 //notes:God Roll
-dimwishlist:item=
+dimwishlist:item=3460122497&perks=3768438372,2154191829,951095735,4104185692 #notes:pvp|tags:pve
+dimwishlist:item=3460122497&perks=3768438372,2154191829,951095735,47981717 #notes:pvp|tags:pve
+dimwishlist:item=3460122497&perks=852209214,3429800428,201365942,47981717 #notes:pvp|tags:pvp
 
 //
 //notes:God Roll
