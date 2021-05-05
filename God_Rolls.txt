@@ -6,6 +6,19 @@ description:This is a list i have created to highlight all the "God Rolls" of we
 dimwishlist:item=3993415705&perks=1478423395,3301904089,2846385770,3713839994
 dimwishlist:item=3993415705&perks=1478423395,3373736292,2846385770,3713839994
 
+//False Promises
+//notes:God Roll
+dimwishlist:item=3143732432&perks=3643424744,3425386926
+dimwishlist:item=3143732432&perks=3643424744,4082225868
+dimwishlist:item=3143732432&perks=2779035018,3425386926
+dimwishlist:item=3143732432&perks=2779035018,4082225868
+dimwishlist:item=3143732432&perks=2450788523,3425386926
+dimwishlist:item=3143732432&perks=2450788523,4082225868
+
+//
+//notes:God Roll
+dimwishlist:item=
+
 //Bottom Dollar
 //notes:God Roll
 dimwishlist:item=1046651176&perks=2757685314,4090651448,3142289711,2846385770 #notes:|tags:pvp
@@ -211,47 +224,3 @@ dimwishlist:item=3460122497&perks=3768438372,3429800428,2450788523,4082225868
 //notes:God Roll
 dimwishlist:item=1216130969&perks=2779035018,4082225868 #notes:pve
 dimwishlist:item=1216130969&perks=2779035018,2458213969 #notes:pve
-
-//
-//notes:God Roll
-dimwishlist:item=
-
-//
-//notes:God Roll
-dimwishlist:item=
-
-//
-//notes:God Roll
-dimwishlist:item=
-
-//
-//notes:God Roll
-dimwishlist:item=
-
-//
-//notes:God Roll
-dimwishlist:item=
-
-//
-//notes:God Roll
-dimwishlist:item=
-
-//
-//notes:God Roll
-dimwishlist:item=
-
-//
-//notes:God Roll
-dimwishlist:item=
-
-//
-//notes:God Roll
-dimwishlist:item=
-
-//
-//notes:God Roll
-dimwishlist:item=
-
-//
-//notes:God Roll
-dimwishlist:item=
