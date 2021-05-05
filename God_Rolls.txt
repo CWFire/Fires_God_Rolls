@@ -214,7 +214,7 @@ dimwishlist:item=3460122497&perks=852209214,3429800428,201365942,47981717 #notes
 
 //Cold Denial
 //notes:God Roll
-dimwishlist:item=1216130969&perks=2779035018,4082225868 #notes:pvp|tags:pve
+dimwishlist:item=1216130969&perks=2779035018,4082225868 #notes:pve
 
 //
 //notes:God Roll
