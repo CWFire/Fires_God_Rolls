@@ -64,5 +64,6 @@ for sheet in workbook:
 
         current_gun_rolls_string += f"\ndimwishlist:item={current_gun_hash}&perks={perk_hashes_str}{f' #notes:{note}' if note else ''}"
 
-    with open(output_path, "a") as appendfile:
-        appendfile.write(current_gun_rolls_string)
+
+
+
