@@ -30,7 +30,6 @@ perk_hashes_cache = {}
 
 async def get_inventory_item_hash(query: str):
     resp = await destiny.api.search_destiny_entities("DestinyInventoryItemDefinition", query[:30])
-    print(query, resp)
     results = resp["Response"]["results"]["results"]
     return results[0]["hash"] if results else None
 
@@ -58,11 +57,20 @@ for sheet in workbook:
             current_gun_hash = loop.run_until_complete(get_inventory_item_hash(gun))
             current_gun_rolls_string = ""
 
-        perk_names = [cell.value for cell in row[1:5]]
-        perk_hashes_str = str([loop.run_until_complete(get_perk_hash(perk_name)) for perk_name in perk_names if perk_name and perk_name != "*"])[1:-1].strip()
+        perk_names = [cell.value for cell in row[1:5] if cell.value]
+        perk_hashes_str = str([loop.run_until_complete(get_perk_hash(perk_name)) for perk_name in perk_names if perk_name and perk_name != "*"])[1:-1].replace(" ", "")
+
+        if not perk_hashes_str:
+            if "*" in "".join(perk_names):
+                perks_str = "&perks=*"
+            else:
+                continue
+        else:
+            perks_str = f"&perks={perk_hashes_str}"
+
         note = row[5].value
 
-        current_gun_rolls_string += f"\ndimwishlist:item={current_gun_hash}&perks={perk_hashes_str}{f' #notes:{note}' if note else ''}"
+        current_gun_rolls_string += f"\ndimwishlist:item={current_gun_hash}{perks_str}{f' #notes:{note}' if note else ''}"
 
     with open(output_path, "a") as appendfile:
         appendfile.write(current_gun_rolls_string)
