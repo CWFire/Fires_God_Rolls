@@ -46,6 +46,7 @@ async def get_perk_hash(query: str):
 for sheet in workbook:
     with open(output_path, "a") as appendfile:
         appendfile.write(f"\n\n//{sheet.title}")
+        current_gun_rolls_string = ""
 
     for row in tuple(sheet)[1:]:
         gun = row[0].value
