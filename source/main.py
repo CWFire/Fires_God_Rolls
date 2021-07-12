@@ -39,16 +39,35 @@ async def get_inventory_item(query: str, item_type: str = None):
         return None
     else:
         dehashed_results = [await destiny.decode_hash(result["hash"], "DestinyInventoryItemDefinition") for result in results]
-        valid_results = dehashed_results
-        if item_type == "Weapon":
-            valid_results = [data for data in dehashed_results if "traitIds" in data.keys() and "item_type.weapon" in data["traitIds"]]
-        elif item_type == "Perk":
-            valid_results = [data for data in dehashed_results if "traitIds" not in data.keys()]
-        valid_results = [data for data in valid_results if "iconWatermarkShelved" not in data.keys()]
+        valid_results = dehashed_results.copy()
+        if len(valid_results) > 1:
+            if item_type == "Weapon":
+                valid_results = [data for data in valid_results if "traitIds" in data.keys() and "item_type.weapon" in data["traitIds"]]
+
+            elif item_type == "Perk":
+                valid_results = [data for data in valid_results if "traitIds" not in data.keys()]
+
+        needy_results = [result for result in valid_results if result["displayProperties"]["name"].lower() == query.lower()]
+        if len(needy_results) > 1:
+            if item_type == "Weapon":
+                power_caps = []
+                for result in needy_results:
+                    power_caps.append([(await destiny.decode_hash(version["powerCapHash"], "DestinyPowerCapDefinition"))["powerCap"] for version in result["quality"]["versions"]])
+                power_caps = [max(caps) for caps in power_caps]
+                higher_power_cap = max(power_caps)
+                index = power_caps.index(higher_power_cap)
+                return needy_results[index]
+            else:
+                return needy_results[0]
+        elif len(needy_results) == 1:
+            return needy_results[0]
+
         if len(valid_results) > 1:
             print(f"Amibiguous results from query '{query}'")
             [print(f"\t{valid_result}") for valid_result in valid_results]
-        return valid_results[0]
+        if len(valid_results) == 0:
+            print(f"Failed to find 'good' result for query {query}")
+        return valid_results[0] if valid_results else None
 
 
 async def get_perk_hash(query: str):
@@ -75,6 +94,7 @@ for sheet in workbook:
             with open(output_path, "a") as appendfile:
                 appendfile.write(current_gun_rolls_string)
                 appendfile.write(f"\n\n//{current_gun_name}\n//notes:God Roll")
+            current_gun_rolls_string = ""
 
         perk_names = [cell.value for cell in row[1:5] if cell.value]
         perk_hashes_str = str([loop.run_until_complete(get_perk_hash(perk_name)) for perk_name in perk_names if perk_name and perk_name != "*"])[1:-1].replace(" ", "")
