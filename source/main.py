@@ -48,7 +48,7 @@ async def get_inventory_item(query: str, item_type: str = None):
                 valid_results = [data for data in valid_results if "traitIds" not in data.keys()]
 
         needy_results = [result for result in valid_results if result["displayProperties"]["name"].lower() == query.lower()]
-        if len(needy_results) > 1:
+        if needy_results:
             if item_type == "Weapon":
                 power_caps = []
                 for result in needy_results:
@@ -56,18 +56,18 @@ async def get_inventory_item(query: str, item_type: str = None):
                 power_caps = [max(caps) for caps in power_caps]
                 higher_power_cap = max(power_caps)
                 index = power_caps.index(higher_power_cap)
+                if higher_power_cap <= 1260:
+                    print(f"Item returned from query '{query}' is sunset, consider omitting")
                 return needy_results[index]
             else:
                 return needy_results[0]
-        elif len(needy_results) == 1:
-            return needy_results[0]
-
-        if len(valid_results) > 1:
-            print(f"Amibiguous results from query '{query}'")
-            [print(f"\t{valid_result}") for valid_result in valid_results]
-        if len(valid_results) == 0:
-            print(f"Failed to find 'good' result for query {query}")
-        return valid_results[0] if valid_results else None
+        else:
+            if len(valid_results) > 1:
+                print(f"Amibiguous results from query '{query}'")
+                [print(f"\t{valid_result}") for valid_result in valid_results]
+            if len(valid_results) == 0:
+                print(f"Failed to find 'good' result for query {query}")
+            return valid_results[0] if valid_results else None
 
 
 async def get_perk_hash(query: str):
