@@ -10,7 +10,7 @@ loop = asyncio.get_event_loop()
 api_key = getenv("API_KEY")
 
 destiny = pydest.Pydest(api_key, loop)
-resp = loop.run_until_complete(destiny.api.search_destiny_entities("DestinyInventoryItemDefinition", "Astral Horizon"))
+resp = loop.run_until_complete(destiny.api.search_destiny_entities("DestinyInventoryItemDefinition", "Acantha-D"))
 results = resp["Response"]["results"]["results"]
 hashes = [result["hash"] for result in results]
 dehashed = [loop.run_until_complete(destiny.decode_hash(itemhash, "DestinyInventoryItemDefinition")) for itemhash in hashes]
