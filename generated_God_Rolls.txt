@@ -331,30 +331,34 @@ dimwishlist:item=3409645497&perks=3661387068,106909392,2450788523,4104185692
 
 //Peacebond
 //notes:God Roll
-dimwishlist:item=829330711&perks=4090651448,3142289711,2846385770,124408337
-dimwishlist:item=829330711&perks=4090651448,3142289711,2846385770,4082225868
-dimwishlist:item=829330711&perks=4090651448,3142289711,1820235745,124408337
-dimwishlist:item=829330711&perks=4090651448,3142289711,1820235745,4082225868
-dimwishlist:item=829330711&perks=4090651448,106909392,2846385770,124408337
-dimwishlist:item=829330711&perks=4090651448,106909392,2846385770,4082225868
-dimwishlist:item=829330711&perks=4090651448,106909392,1820235745,124408337
-dimwishlist:item=829330711&perks=4090651448,106909392,1820235745,4082225868
-dimwishlist:item=829330711&perks=3250034553,3142289711,2846385770,124408337
-dimwishlist:item=829330711&perks=3250034553,3142289711,2846385770,4082225868
-dimwishlist:item=829330711&perks=3250034553,3142289711,1820235745,124408337
-dimwishlist:item=829330711&perks=3250034553,3142289711,1820235745,4082225868
-dimwishlist:item=829330711&perks=3250034553,106909392,2846385770,124408337
-dimwishlist:item=829330711&perks=3250034553,106909392,2846385770,4082225868
-dimwishlist:item=829330711&perks=3250034553,106909392,1820235745,124408337
-dimwishlist:item=829330711&perks=3250034553,106909392,1820235745,4082225868
-dimwishlist:item=829330711&perks=1467527085,3142289711,2846385770,124408337
-dimwishlist:item=829330711&perks=1467527085,3142289711,2846385770,4082225868
-dimwishlist:item=829330711&perks=1467527085,3142289711,1820235745,124408337
-dimwishlist:item=829330711&perks=1467527085,3142289711,1820235745,4082225868
-dimwishlist:item=829330711&perks=1467527085,106909392,2846385770,124408337
-dimwishlist:item=829330711&perks=1467527085,106909392,2846385770,4082225868
-dimwishlist:item=829330711&perks=1467527085,106909392,1820235745,124408337
-dimwishlist:item=829330711&perks=1467527085,106909392,1820235745,4082225868
+dimwishlist:item=829330711&perks=4090651448,3142289711,2846385770,124408337 #notes:God Roll
+dimwishlist:item=829330711&perks=4090651448,3142289711,2846385770,4082225868 #notes:God Roll
+dimwishlist:item=829330711&perks=4090651448,3142289711,1820235745,124408337 #notes:God Roll
+dimwishlist:item=829330711&perks=4090651448,3142289711,1820235745,4082225868 #notes:God Roll
+dimwishlist:item=829330711&perks=4090651448,106909392,2846385770,124408337 #notes:God Roll
+dimwishlist:item=829330711&perks=4090651448,106909392,2846385770,4082225868 #notes:God Roll
+dimwishlist:item=829330711&perks=4090651448,106909392,1820235745,124408337 #notes:God Roll
+dimwishlist:item=829330711&perks=4090651448,106909392,1820235745,4082225868 #notes:God Roll
+dimwishlist:item=829330711&perks=3250034553,3142289711,2846385770,124408337 #notes:God Roll
+dimwishlist:item=829330711&perks=3250034553,3142289711,2846385770,4082225868 #notes:God Roll
+dimwishlist:item=829330711&perks=3250034553,3142289711,1820235745,124408337 #notes:God Roll
+dimwishlist:item=829330711&perks=3250034553,3142289711,1820235745,4082225868 #notes:God Roll
+dimwishlist:item=829330711&perks=3250034553,106909392,2846385770,124408337 #notes:God Roll
+dimwishlist:item=829330711&perks=3250034553,106909392,2846385770,4082225868 #notes:God Roll
+dimwishlist:item=829330711&perks=3250034553,106909392,1820235745,124408337 #notes:God Roll
+dimwishlist:item=829330711&perks=3250034553,106909392,1820235745,4082225868 #notes:God Roll
+dimwishlist:item=829330711&perks=1467527085,3142289711,2846385770,124408337 #notes:God Roll
+dimwishlist:item=829330711&perks=1467527085,3142289711,2846385770,4082225868 #notes:God Roll
+dimwishlist:item=829330711&perks=1467527085,3142289711,1820235745,124408337 #notes:God Roll
+dimwishlist:item=829330711&perks=1467527085,3142289711,1820235745,4082225868 #notes:God Roll
+dimwishlist:item=829330711&perks=1467527085,106909392,2846385770,124408337 #notes:God Roll
+dimwishlist:item=829330711&perks=1467527085,106909392,2846385770,4082225868 #notes:God Roll
+dimwishlist:item=829330711&perks=1467527085,106909392,1820235745,124408337 #notes:God Roll
+dimwishlist:item=829330711&perks=1467527085,106909392,1820235745,4082225868 #notes:God Roll
+dimwishlist:item=829330711&perks=2846385770,124408337 #notes:3/4 column perks - 1/2 column perks need improved for God Roll
+dimwishlist:item=829330711&perks=2846385770,4082225868 #notes:3/4 column perks - 1/2 column perks need improved for God Roll
+dimwishlist:item=829330711&perks=1820235745,124408337 #notes:3/4 column perks - 1/2 column perks need improved for God Roll
+dimwishlist:item=829330711&perks=1820235745,4082225868 #notes:3/4 column perks - 1/2 column perks need improved for God Roll
 
 //Punching Out
 //notes:God Roll
@@ -484,18 +488,27 @@ dimwishlist:item=2475355656&perks=1467527085,689005463,2284787283,1546637391
 
 //Scathelocke
 //notes:God Roll
-dimwishlist:item=602618796&perks=839105230,3142289711,1820235745,3425386926
-dimwishlist:item=602618796&perks=839105230,3142289711,1570042021,3425386926
-dimwishlist:item=602618796&perks=839105230,106909392,1820235745,3425386926
-dimwishlist:item=602618796&perks=839105230,106909392,1570042021,3425386926
-dimwishlist:item=602618796&perks=4090651448,3142289711,1820235745,3425386926
-dimwishlist:item=602618796&perks=4090651448,3142289711,1570042021,3425386926
-dimwishlist:item=602618796&perks=4090651448,106909392,1820235745,3425386926
-dimwishlist:item=602618796&perks=4090651448,106909392,1570042021,3425386926
-dimwishlist:item=602618796&perks=3661387068,3142289711,1820235745,3425386926
-dimwishlist:item=602618796&perks=3661387068,3142289711,1570042021,3425386926
-dimwishlist:item=602618796&perks=3661387068,106909392,1820235745,3425386926
-dimwishlist:item=602618796&perks=3661387068,106909392,1570042021,3425386926
+dimwishlist:item=602618796&perks=839105230,3142289711,1820235745,3425386926 #notes:PvE God Roll
+dimwishlist:item=602618796&perks=839105230,3142289711,1820235745,11612903 #notes:PvE God Roll - AJ potentially getting a buff so keep hold of this weapon for now
+dimwishlist:item=602618796&perks=839105230,3142289711,1570042021,3425386926 #notes:PvP God Roll
+dimwishlist:item=602618796&perks=839105230,106909392,1820235745,3425386926 #notes:PvE God Roll
+dimwishlist:item=602618796&perks=839105230,106909392,1820235745,11612903 #notes:PvE God Roll - AJ potentially getting a buff so keep hold of this weapon for now
+dimwishlist:item=602618796&perks=839105230,106909392,1570042021,3425386926 #notes:PvP God Roll
+dimwishlist:item=602618796&perks=4090651448,3142289711,1820235745,3425386926 #notes:PvE God Roll
+dimwishlist:item=602618796&perks=4090651448,3142289711,1820235745,11612903 #notes:PvE God Roll - AJ potentially getting a buff so keep hold of this weapon for now
+dimwishlist:item=602618796&perks=4090651448,3142289711,1570042021,3425386926 #notes:PvP God Roll
+dimwishlist:item=602618796&perks=4090651448,106909392,1820235745,3425386926 #notes:PvE God Roll
+dimwishlist:item=602618796&perks=4090651448,106909392,1820235745,11612903 #notes:PvE God Roll - AJ potentially getting a buff so keep hold of this weapon for now
+dimwishlist:item=602618796&perks=4090651448,106909392,1570042021,3425386926 #notes:PvP God Roll
+dimwishlist:item=602618796&perks=3661387068,3142289711,1820235745,3425386926 #notes:PvE God Roll
+dimwishlist:item=602618796&perks=3661387068,3142289711,1820235745,11612903 #notes:PvE God Roll - AJ potentially getting a buff so keep hold of this weapon for now
+dimwishlist:item=602618796&perks=3661387068,3142289711,1570042021,3425386926 #notes:PvP God Roll
+dimwishlist:item=602618796&perks=3661387068,106909392,1820235745,3425386926 #notes:PvE God Roll
+dimwishlist:item=602618796&perks=3661387068,106909392,1820235745,11612903 #notes:PvE God Roll - AJ potentially getting a buff so keep hold of this weapon for now
+dimwishlist:item=602618796&perks=3661387068,106909392,1570042021,3425386926 #notes:PvP God Roll
+dimwishlist:item=602618796&perks=1820235745,3425386926 #notes:PvE Roll - 3/4 Column perks - look for better 1/2 Column perks
+dimwishlist:item=602618796&perks=1820235745,11612903 #notes:PvE Roll - 3/4 Column perks - look for better 1/2 Column perks - AJ potentially getting a buff so keep hold of this weapon for now
+dimwishlist:item=602618796&perks=1570042021,3425386926 #notes:PvP Roll - 3/4 Column perks - look for better 1/2 Column perks
 
 //Servant Leader
 //notes:God Roll
@@ -715,60 +728,56 @@ dimwishlist:item=1866778462&perks=1844523823,2822142346,3977735242,1546637391
 
 //The Last Breath
 //notes:God Roll
-dimwishlist:item=507038823&perks=4090651448,1885400500,3523296417,4104185692
-dimwishlist:item=507038823&perks=4090651448,1885400500,3523296417,2846385770
-dimwishlist:item=507038823&perks=4090651448,1885400500,1820235745,4104185692
-dimwishlist:item=507038823&perks=4090651448,1885400500,1820235745,2846385770
-dimwishlist:item=507038823&perks=4090651448,1885400500,2450788523,4104185692
-dimwishlist:item=507038823&perks=4090651448,1885400500,2450788523,2846385770
-dimwishlist:item=507038823&perks=4090651448,1561002382,3523296417,4104185692
-dimwishlist:item=507038823&perks=4090651448,1561002382,3523296417,2846385770
-dimwishlist:item=507038823&perks=4090651448,1561002382,1820235745,4104185692
-dimwishlist:item=507038823&perks=4090651448,1561002382,1820235745,2846385770
-dimwishlist:item=507038823&perks=4090651448,1561002382,2450788523,4104185692
-dimwishlist:item=507038823&perks=4090651448,1561002382,2450788523,2846385770
-dimwishlist:item=507038823&perks=4090651448,1968497646,3523296417,4104185692
-dimwishlist:item=507038823&perks=4090651448,1968497646,3523296417,2846385770
-dimwishlist:item=507038823&perks=4090651448,1968497646,1820235745,4104185692
-dimwishlist:item=507038823&perks=4090651448,1968497646,1820235745,2846385770
-dimwishlist:item=507038823&perks=4090651448,1968497646,2450788523,4104185692
-dimwishlist:item=507038823&perks=4090651448,1968497646,2450788523,2846385770
-dimwishlist:item=507038823&perks=839105230,1885400500,3523296417,4104185692
-dimwishlist:item=507038823&perks=839105230,1885400500,3523296417,2846385770
-dimwishlist:item=507038823&perks=839105230,1885400500,1820235745,4104185692
-dimwishlist:item=507038823&perks=839105230,1885400500,1820235745,2846385770
-dimwishlist:item=507038823&perks=839105230,1885400500,2450788523,4104185692
-dimwishlist:item=507038823&perks=839105230,1885400500,2450788523,2846385770
-dimwishlist:item=507038823&perks=839105230,1561002382,3523296417,4104185692
-dimwishlist:item=507038823&perks=839105230,1561002382,3523296417,2846385770
-dimwishlist:item=507038823&perks=839105230,1561002382,1820235745,4104185692
-dimwishlist:item=507038823&perks=839105230,1561002382,1820235745,2846385770
-dimwishlist:item=507038823&perks=839105230,1561002382,2450788523,4104185692
-dimwishlist:item=507038823&perks=839105230,1561002382,2450788523,2846385770
-dimwishlist:item=507038823&perks=839105230,1968497646,3523296417,4104185692
-dimwishlist:item=507038823&perks=839105230,1968497646,3523296417,2846385770
-dimwishlist:item=507038823&perks=839105230,1968497646,1820235745,4104185692
-dimwishlist:item=507038823&perks=839105230,1968497646,1820235745,2846385770
-dimwishlist:item=507038823&perks=839105230,1968497646,2450788523,4104185692
-dimwishlist:item=507038823&perks=839105230,1968497646,2450788523,2846385770
-dimwishlist:item=507038823&perks=3661387068,1885400500,3523296417,4104185692
-dimwishlist:item=507038823&perks=3661387068,1885400500,3523296417,2846385770
-dimwishlist:item=507038823&perks=3661387068,1885400500,1820235745,4104185692
-dimwishlist:item=507038823&perks=3661387068,1885400500,1820235745,2846385770
-dimwishlist:item=507038823&perks=3661387068,1885400500,2450788523,4104185692
-dimwishlist:item=507038823&perks=3661387068,1885400500,2450788523,2846385770
-dimwishlist:item=507038823&perks=3661387068,1561002382,3523296417,4104185692
-dimwishlist:item=507038823&perks=3661387068,1561002382,3523296417,2846385770
-dimwishlist:item=507038823&perks=3661387068,1561002382,1820235745,4104185692
-dimwishlist:item=507038823&perks=3661387068,1561002382,1820235745,2846385770
-dimwishlist:item=507038823&perks=3661387068,1561002382,2450788523,4104185692
-dimwishlist:item=507038823&perks=3661387068,1561002382,2450788523,2846385770
-dimwishlist:item=507038823&perks=3661387068,1968497646,3523296417,4104185692
-dimwishlist:item=507038823&perks=3661387068,1968497646,3523296417,2846385770
-dimwishlist:item=507038823&perks=3661387068,1968497646,1820235745,4104185692
-dimwishlist:item=507038823&perks=3661387068,1968497646,1820235745,2846385770
-dimwishlist:item=507038823&perks=3661387068,1968497646,2450788523,4104185692
-dimwishlist:item=507038823&perks=3661387068,1968497646,2450788523,2846385770
+dimwishlist:item=507038823&perks=4090651448,1885400500,3523296417,4104185692 #notes:PvE God Roll
+dimwishlist:item=507038823&perks=4090651448,1885400500,3523296417,1774574192 #notes:PvE Roll - Osmosis is useful for match game content where you need to break shields (e.g. Legend or higher)
+dimwishlist:item=507038823&perks=4090651448,1885400500,1820235745,4104185692 #notes:PvE God Roll
+dimwishlist:item=507038823&perks=4090651448,1885400500,1820235745,1774574192 #notes:PvE Roll - Osmosis is useful for match game content where you need to break shields (e.g. Legend or higher)
+dimwishlist:item=507038823&perks=4090651448,1885400500,2450788523,2846385770 #notes:PvP God Roll
+dimwishlist:item=507038823&perks=4090651448,1561002382,3523296417,4104185692 #notes:PvE God Roll
+dimwishlist:item=507038823&perks=4090651448,1561002382,3523296417,1774574192 #notes:PvE Roll - Osmosis is useful for match game content where you need to break shields (e.g. Legend or higher)
+dimwishlist:item=507038823&perks=4090651448,1561002382,1820235745,4104185692 #notes:PvE God Roll
+dimwishlist:item=507038823&perks=4090651448,1561002382,1820235745,1774574192 #notes:PvE Roll - Osmosis is useful for match game content where you need to break shields (e.g. Legend or higher)
+dimwishlist:item=507038823&perks=4090651448,1561002382,2450788523,2846385770 #notes:PvP God Roll
+dimwishlist:item=507038823&perks=4090651448,1968497646,3523296417,4104185692 #notes:PvE God Roll
+dimwishlist:item=507038823&perks=4090651448,1968497646,3523296417,1774574192 #notes:PvE Roll - Osmosis is useful for match game content where you need to break shields (e.g. Legend or higher)
+dimwishlist:item=507038823&perks=4090651448,1968497646,1820235745,4104185692 #notes:PvE God Roll
+dimwishlist:item=507038823&perks=4090651448,1968497646,1820235745,1774574192 #notes:PvE Roll - Osmosis is useful for match game content where you need to break shields (e.g. Legend or higher)
+dimwishlist:item=507038823&perks=4090651448,1968497646,2450788523,2846385770 #notes:PvP God Roll
+dimwishlist:item=507038823&perks=839105230,1885400500,3523296417,4104185692 #notes:PvE God Roll
+dimwishlist:item=507038823&perks=839105230,1885400500,3523296417,1774574192 #notes:PvE Roll - Osmosis is useful for match game content where you need to break shields (e.g. Legend or higher)
+dimwishlist:item=507038823&perks=839105230,1885400500,1820235745,4104185692 #notes:PvE God Roll
+dimwishlist:item=507038823&perks=839105230,1885400500,1820235745,1774574192 #notes:PvE Roll - Osmosis is useful for match game content where you need to break shields (e.g. Legend or higher)
+dimwishlist:item=507038823&perks=839105230,1885400500,2450788523,2846385770 #notes:PvP God Roll
+dimwishlist:item=507038823&perks=839105230,1561002382,3523296417,4104185692 #notes:PvE God Roll
+dimwishlist:item=507038823&perks=839105230,1561002382,3523296417,1774574192 #notes:PvE Roll - Osmosis is useful for match game content where you need to break shields (e.g. Legend or higher)
+dimwishlist:item=507038823&perks=839105230,1561002382,1820235745,4104185692 #notes:PvE God Roll
+dimwishlist:item=507038823&perks=839105230,1561002382,1820235745,1774574192 #notes:PvE Roll - Osmosis is useful for match game content where you need to break shields (e.g. Legend or higher)
+dimwishlist:item=507038823&perks=839105230,1561002382,2450788523,2846385770 #notes:PvP God Roll
+dimwishlist:item=507038823&perks=839105230,1968497646,3523296417,4104185692 #notes:PvE God Roll
+dimwishlist:item=507038823&perks=839105230,1968497646,3523296417,1774574192 #notes:PvE Roll - Osmosis is useful for match game content where you need to break shields (e.g. Legend or higher)
+dimwishlist:item=507038823&perks=839105230,1968497646,1820235745,4104185692 #notes:PvE God Roll
+dimwishlist:item=507038823&perks=839105230,1968497646,1820235745,1774574192 #notes:PvE Roll - Osmosis is useful for match game content where you need to break shields (e.g. Legend or higher)
+dimwishlist:item=507038823&perks=839105230,1968497646,2450788523,2846385770 #notes:PvP God Roll
+dimwishlist:item=507038823&perks=3661387068,1885400500,3523296417,4104185692 #notes:PvE God Roll
+dimwishlist:item=507038823&perks=3661387068,1885400500,3523296417,1774574192 #notes:PvE Roll - Osmosis is useful for match game content where you need to break shields (e.g. Legend or higher)
+dimwishlist:item=507038823&perks=3661387068,1885400500,1820235745,4104185692 #notes:PvE God Roll
+dimwishlist:item=507038823&perks=3661387068,1885400500,1820235745,1774574192 #notes:PvE Roll - Osmosis is useful for match game content where you need to break shields (e.g. Legend or higher)
+dimwishlist:item=507038823&perks=3661387068,1885400500,2450788523,2846385770 #notes:PvP God Roll
+dimwishlist:item=507038823&perks=3661387068,1561002382,3523296417,4104185692 #notes:PvE God Roll
+dimwishlist:item=507038823&perks=3661387068,1561002382,3523296417,1774574192 #notes:PvE Roll - Osmosis is useful for match game content where you need to break shields (e.g. Legend or higher)
+dimwishlist:item=507038823&perks=3661387068,1561002382,1820235745,4104185692 #notes:PvE God Roll
+dimwishlist:item=507038823&perks=3661387068,1561002382,1820235745,1774574192 #notes:PvE Roll - Osmosis is useful for match game content where you need to break shields (e.g. Legend or higher)
+dimwishlist:item=507038823&perks=3661387068,1561002382,2450788523,2846385770 #notes:PvP God Roll
+dimwishlist:item=507038823&perks=3661387068,1968497646,3523296417,4104185692 #notes:PvE God Roll
+dimwishlist:item=507038823&perks=3661387068,1968497646,3523296417,1774574192 #notes:PvE Roll - Osmosis is useful for match game content where you need to break shields (e.g. Legend or higher)
+dimwishlist:item=507038823&perks=3661387068,1968497646,1820235745,4104185692 #notes:PvE God Roll
+dimwishlist:item=507038823&perks=3661387068,1968497646,1820235745,1774574192 #notes:PvE Roll - Osmosis is useful for match game content where you need to break shields (e.g. Legend or higher)
+dimwishlist:item=507038823&perks=3661387068,1968497646,2450788523,2846385770 #notes:PvP God Roll
+dimwishlist:item=507038823&perks=3523296417,4104185692 #notes:PvE God Roll
+dimwishlist:item=507038823&perks=3523296417,1774574192 #notes:PvE Roll - Osmosis is useful for match game content where you need to break shields (e.g. Legend or higher)
+dimwishlist:item=507038823&perks=1820235745,4104185692 #notes:PvE God Roll
+dimwishlist:item=507038823&perks=1820235745,1774574192 #notes:PvE Roll - Osmosis is useful for match game content where you need to break shields (e.g. Legend or higher)
+dimwishlist:item=507038823&perks=2450788523,2846385770 #notes:PvP God Roll
 
 //The Long Walk
 //notes:God Roll
@@ -802,42 +811,32 @@ dimwishlist:item=3326850591&perks=1840239774,1087426260,1168162263,957782887
 
 //Vulpecula
 //notes:God Roll
-dimwishlist:item=1622998472&perks=202670084,3142289711,1168162263,124408337
-dimwishlist:item=1622998472&perks=202670084,3142289711,1168162263,3038247973
-dimwishlist:item=1622998472&perks=202670084,3142289711,3700496672,124408337
-dimwishlist:item=1622998472&perks=202670084,3142289711,3700496672,3038247973
-dimwishlist:item=1622998472&perks=202670084,3142289711,1195158366,124408337
-dimwishlist:item=1622998472&perks=202670084,3142289711,1195158366,3038247973
-dimwishlist:item=1622998472&perks=202670084,106909392,1168162263,124408337
-dimwishlist:item=1622998472&perks=202670084,106909392,1168162263,3038247973
-dimwishlist:item=1622998472&perks=202670084,106909392,3700496672,124408337
-dimwishlist:item=1622998472&perks=202670084,106909392,3700496672,3038247973
-dimwishlist:item=1622998472&perks=202670084,106909392,1195158366,124408337
-dimwishlist:item=1622998472&perks=202670084,106909392,1195158366,3038247973
-dimwishlist:item=1622998472&perks=3661387068,3142289711,1168162263,124408337
-dimwishlist:item=1622998472&perks=3661387068,3142289711,1168162263,3038247973
-dimwishlist:item=1622998472&perks=3661387068,3142289711,3700496672,124408337
-dimwishlist:item=1622998472&perks=3661387068,3142289711,3700496672,3038247973
-dimwishlist:item=1622998472&perks=3661387068,3142289711,1195158366,124408337
-dimwishlist:item=1622998472&perks=3661387068,3142289711,1195158366,3038247973
-dimwishlist:item=1622998472&perks=3661387068,106909392,1168162263,124408337
-dimwishlist:item=1622998472&perks=3661387068,106909392,1168162263,3038247973
-dimwishlist:item=1622998472&perks=3661387068,106909392,3700496672,124408337
-dimwishlist:item=1622998472&perks=3661387068,106909392,3700496672,3038247973
-dimwishlist:item=1622998472&perks=3661387068,106909392,1195158366,124408337
-dimwishlist:item=1622998472&perks=3661387068,106909392,1195158366,3038247973
-dimwishlist:item=1622998472&perks=4090651448,3142289711,1168162263,124408337
-dimwishlist:item=1622998472&perks=4090651448,3142289711,1168162263,3038247973
-dimwishlist:item=1622998472&perks=4090651448,3142289711,3700496672,124408337
-dimwishlist:item=1622998472&perks=4090651448,3142289711,3700496672,3038247973
-dimwishlist:item=1622998472&perks=4090651448,3142289711,1195158366,124408337
-dimwishlist:item=1622998472&perks=4090651448,3142289711,1195158366,3038247973
-dimwishlist:item=1622998472&perks=4090651448,106909392,1168162263,124408337
-dimwishlist:item=1622998472&perks=4090651448,106909392,1168162263,3038247973
-dimwishlist:item=1622998472&perks=4090651448,106909392,3700496672,124408337
-dimwishlist:item=1622998472&perks=4090651448,106909392,3700496672,3038247973
-dimwishlist:item=1622998472&perks=4090651448,106909392,1195158366,124408337
-dimwishlist:item=1622998472&perks=4090651448,106909392,1195158366,3038247973
+dimwishlist:item=1622998472&perks=4090651448,3142289711,1168162263,124408337 #notes:Headstone is a great perk to use as a generator in stasis builds, creating stasis crystal on precision kills allows you to gain ability regen buff once the crystal is destroyed (warlock stasis turret build as example)
+dimwishlist:item=1622998472&perks=4090651448,3142289711,1168162263,3038247973 #notes:God roll - if your not looking for the generate varient (with Headstone)
+dimwishlist:item=1622998472&perks=4090651448,106909392,1168162263,124408337 #notes:Headstone is a great perk to use as a generator in stasis builds, creating stasis crystal on precision kills allows you to gain ability regen buff once the crystal is destroyed (warlock stasis turret build as example)
+dimwishlist:item=1622998472&perks=4090651448,106909392,1168162263,3038247973 #notes:God roll - if your not looking for the generate varient (with Headstone)
+dimwishlist:item=1622998472&perks=4090651448,1087426260,1168162263,124408337 #notes:Headstone is a great perk to use as a generator in stasis builds, creating stasis crystal on precision kills allows you to gain ability regen buff once the crystal is destroyed (warlock stasis turret build as example)
+dimwishlist:item=1622998472&perks=4090651448,1087426260,1168162263,3038247973 #notes:God roll - if your not looking for the generate varient (with Headstone)
+dimwishlist:item=1622998472&perks=202670084,3142289711,1168162263,124408337 #notes:Headstone is a great perk to use as a generator in stasis builds, creating stasis crystal on precision kills allows you to gain ability regen buff once the crystal is destroyed (warlock stasis turret build as example)
+dimwishlist:item=1622998472&perks=202670084,3142289711,1168162263,3038247973 #notes:God roll - if your not looking for the generate varient (with Headstone)
+dimwishlist:item=1622998472&perks=202670084,106909392,1168162263,124408337 #notes:Headstone is a great perk to use as a generator in stasis builds, creating stasis crystal on precision kills allows you to gain ability regen buff once the crystal is destroyed (warlock stasis turret build as example)
+dimwishlist:item=1622998472&perks=202670084,106909392,1168162263,3038247973 #notes:God roll - if your not looking for the generate varient (with Headstone)
+dimwishlist:item=1622998472&perks=202670084,1087426260,1168162263,124408337 #notes:Headstone is a great perk to use as a generator in stasis builds, creating stasis crystal on precision kills allows you to gain ability regen buff once the crystal is destroyed (warlock stasis turret build as example)
+dimwishlist:item=1622998472&perks=202670084,1087426260,1168162263,3038247973 #notes:God roll - if your not looking for the generate varient (with Headstone)
+dimwishlist:item=1622998472&perks=839105230,3142289711,1168162263,124408337 #notes:Headstone is a great perk to use as a generator in stasis builds, creating stasis crystal on precision kills allows you to gain ability regen buff once the crystal is destroyed (warlock stasis turret build as example)
+dimwishlist:item=1622998472&perks=839105230,3142289711,1168162263,3038247973 #notes:God roll - if your not looking for the generate varient (with Headstone)
+dimwishlist:item=1622998472&perks=839105230,106909392,1168162263,124408337 #notes:Headstone is a great perk to use as a generator in stasis builds, creating stasis crystal on precision kills allows you to gain ability regen buff once the crystal is destroyed (warlock stasis turret build as example)
+dimwishlist:item=1622998472&perks=839105230,106909392,1168162263,3038247973 #notes:God roll - if your not looking for the generate varient (with Headstone)
+dimwishlist:item=1622998472&perks=839105230,1087426260,1168162263,124408337 #notes:Headstone is a great perk to use as a generator in stasis builds, creating stasis crystal on precision kills allows you to gain ability regen buff once the crystal is destroyed (warlock stasis turret build as example)
+dimwishlist:item=1622998472&perks=839105230,1087426260,1168162263,3038247973 #notes:God roll - if your not looking for the generate varient (with Headstone)
+dimwishlist:item=1622998472&perks=3661387068,3142289711,1168162263,124408337 #notes:Headstone is a great perk to use as a generator in stasis builds, creating stasis crystal on precision kills allows you to gain ability regen buff once the crystal is destroyed (warlock stasis turret build as example)
+dimwishlist:item=1622998472&perks=3661387068,3142289711,1168162263,3038247973 #notes:God roll - if your not looking for the generate varient (with Headstone)
+dimwishlist:item=1622998472&perks=3661387068,106909392,1168162263,124408337 #notes:Headstone is a great perk to use as a generator in stasis builds, creating stasis crystal on precision kills allows you to gain ability regen buff once the crystal is destroyed (warlock stasis turret build as example)
+dimwishlist:item=1622998472&perks=3661387068,106909392,1168162263,3038247973 #notes:God roll - if your not looking for the generate varient (with Headstone)
+dimwishlist:item=1622998472&perks=3661387068,1087426260,1168162263,124408337 #notes:Headstone is a great perk to use as a generator in stasis builds, creating stasis crystal on precision kills allows you to gain ability regen buff once the crystal is destroyed (warlock stasis turret build as example)
+dimwishlist:item=1622998472&perks=3661387068,1087426260,1168162263,3038247973 #notes:God roll - if your not looking for the generate varient (with Headstone)
+dimwishlist:item=1622998472&perks=1168162263,124408337 #notes:3/4 Column perks for Generator God Roll - need correct combo of 1/2 column perk to be Generator God Roll
+dimwishlist:item=1622998472&perks=1168162263,3038247973 #notes:3/4 Column perks for God Roll - need correct combo of 1/2 column perk to be God Roll
 
 //Wolftone Draw
 //notes:God Roll
@@ -922,33 +921,36 @@ dimwishlist:item=875848769&perks=3661387068,1087426260,3643424744,4104185692 #no
 
 //Chroma Rush
 //notes:God Roll
-dimwishlist:item=1119734784&perks=4090651448,3142289711,1820235745,3425386926 #notes:pve
-dimwishlist:item=1119734784&perks=4090651448,106909392,1820235745,3425386926 #notes:pve
-dimwishlist:item=1119734784&perks=4090651448,1087426260,1820235745,3425386926 #notes:pve
-dimwishlist:item=1119734784&perks=4090651448,3142289711,2779035018,3425386926 #notes:pve
-dimwishlist:item=1119734784&perks=4090651448,106909392,2779035018,3425386926 #notes:pve
-dimwishlist:item=1119734784&perks=4090651448,1087426260,2779035018,3425386926 #notes:pve
-dimwishlist:item=1119734784&perks=4090651448,3142289711,1570042021,3425386926 #notes:pve
-dimwishlist:item=1119734784&perks=4090651448,106909392,1570042021,3425386926 #notes:pve
-dimwishlist:item=1119734784&perks=4090651448,1087426260,1570042021,3425386926 #notes:pve
-dimwishlist:item=1119734784&perks=839105230,3142289711,1820235745,3425386926 #notes:pve
-dimwishlist:item=1119734784&perks=839105230,106909392,1820235745,3425386926 #notes:pve
-dimwishlist:item=1119734784&perks=839105230,1087426260,1820235745,3425386926 #notes:pve
-dimwishlist:item=1119734784&perks=839105230,3142289711,2779035018,3425386926 #notes:pve
-dimwishlist:item=1119734784&perks=839105230,106909392,2779035018,3425386926 #notes:pve
-dimwishlist:item=1119734784&perks=839105230,1087426260,2779035018,3425386926 #notes:pve
-dimwishlist:item=1119734784&perks=839105230,3142289711,1570042021,3425386926 #notes:pve
-dimwishlist:item=1119734784&perks=839105230,106909392,1570042021,3425386926 #notes:pve
-dimwishlist:item=1119734784&perks=839105230,1087426260,1570042021,3425386926 #notes:pve
-dimwishlist:item=1119734784&perks=1482024992,3142289711,1820235745,3425386926 #notes:pve
-dimwishlist:item=1119734784&perks=1482024992,106909392,1820235745,3425386926 #notes:pve
-dimwishlist:item=1119734784&perks=1482024992,1087426260,1820235745,3425386926 #notes:pve
-dimwishlist:item=1119734784&perks=1482024992,3142289711,2779035018,3425386926 #notes:pve
-dimwishlist:item=1119734784&perks=1482024992,106909392,2779035018,3425386926 #notes:pve
-dimwishlist:item=1119734784&perks=1482024992,1087426260,2779035018,3425386926 #notes:pve
-dimwishlist:item=1119734784&perks=1482024992,3142289711,1570042021,3425386926 #notes:pve
-dimwishlist:item=1119734784&perks=1482024992,106909392,1570042021,3425386926 #notes:pve
-dimwishlist:item=1119734784&perks=1482024992,1087426260,1570042021,3425386926 #notes:pve
+dimwishlist:item=1119734784&perks=4090651448,3142289711,1820235745,3425386926 #notes:PvE God Roll - Good sustained add clear
+dimwishlist:item=1119734784&perks=4090651448,106909392,1820235745,3425386926 #notes:PvE God Roll - Good sustained add clear
+dimwishlist:item=1119734784&perks=4090651448,1087426260,1820235745,3425386926 #notes:PvE God Roll - Good sustained add clear
+dimwishlist:item=1119734784&perks=4090651448,3142289711,2779035018,3425386926 #notes:PvE God Roll - Good sustained add clear
+dimwishlist:item=1119734784&perks=4090651448,106909392,2779035018,3425386926 #notes:PvE God Roll - Good sustained add clear
+dimwishlist:item=1119734784&perks=4090651448,1087426260,2779035018,3425386926 #notes:PvE God Roll - Good sustained add clear
+dimwishlist:item=1119734784&perks=4090651448,3142289711,1570042021,3425386926 #notes:PvP God Roll
+dimwishlist:item=1119734784&perks=4090651448,106909392,1570042021,3425386926 #notes:PvP God Roll
+dimwishlist:item=1119734784&perks=4090651448,1087426260,1570042021,3425386926 #notes:PvP God Roll
+dimwishlist:item=1119734784&perks=839105230,3142289711,1820235745,3425386926 #notes:PvE God Roll - Good sustained add clear
+dimwishlist:item=1119734784&perks=839105230,106909392,1820235745,3425386926 #notes:PvE God Roll - Good sustained add clear
+dimwishlist:item=1119734784&perks=839105230,1087426260,1820235745,3425386926 #notes:PvE God Roll - Good sustained add clear
+dimwishlist:item=1119734784&perks=839105230,3142289711,2779035018,3425386926 #notes:PvE God Roll - Good sustained add clear
+dimwishlist:item=1119734784&perks=839105230,106909392,2779035018,3425386926 #notes:PvE God Roll - Good sustained add clear
+dimwishlist:item=1119734784&perks=839105230,1087426260,2779035018,3425386926 #notes:PvE God Roll - Good sustained add clear
+dimwishlist:item=1119734784&perks=839105230,3142289711,1570042021,3425386926 #notes:PvP God Roll
+dimwishlist:item=1119734784&perks=839105230,106909392,1570042021,3425386926 #notes:PvP God Roll
+dimwishlist:item=1119734784&perks=839105230,1087426260,1570042021,3425386926 #notes:PvP God Roll
+dimwishlist:item=1119734784&perks=1482024992,3142289711,1820235745,3425386926 #notes:PvE God Roll - Good sustained add clear
+dimwishlist:item=1119734784&perks=1482024992,106909392,1820235745,3425386926 #notes:PvE God Roll - Good sustained add clear
+dimwishlist:item=1119734784&perks=1482024992,1087426260,1820235745,3425386926 #notes:PvE God Roll - Good sustained add clear
+dimwishlist:item=1119734784&perks=1482024992,3142289711,2779035018,3425386926 #notes:PvE God Roll - Good sustained add clear
+dimwishlist:item=1119734784&perks=1482024992,106909392,2779035018,3425386926 #notes:PvE God Roll - Good sustained add clear
+dimwishlist:item=1119734784&perks=1482024992,1087426260,2779035018,3425386926 #notes:PvE God Roll - Good sustained add clear
+dimwishlist:item=1119734784&perks=1482024992,3142289711,1570042021,3425386926 #notes:PvP God Roll
+dimwishlist:item=1119734784&perks=1482024992,106909392,1570042021,3425386926 #notes:PvP God Roll
+dimwishlist:item=1119734784&perks=1482024992,1087426260,1570042021,3425386926 #notes:PvP God Roll
+dimwishlist:item=1119734784&perks=1820235745,3425386926 #notes:PvE God Roll - Good sustained add clear
+dimwishlist:item=1119734784&perks=2779035018,3425386926 #notes:PvE God Roll - Good sustained add clear
+dimwishlist:item=1119734784&perks=1570042021,3425386926 #notes:PvP - Perks you
 
 //Compass Rose
 //notes:God Roll
@@ -1006,17 +1008,19 @@ dimwishlist:item=541188001&perks=839105230,106909392,4267945040,4104185692 #note
 
 //Fatebringer
 //notes:God Roll
-dimwishlist:item=2171478765&perks=4090651448,3142289711,3038247973,1561789734
-dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,1561789734
-dimwishlist:item=2171478765&perks=1482024992,3142289711,3038247973,1561789734
-dimwishlist:item=2171478765&perks=1467527085,3142289711,3038247973,1561789734
+dimwishlist:item=2171478765&perks=4090651448,3142289711,3038247973,1561789734 #notes:God Roll - PVE and PVP
+dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,1561789734 #notes:God Roll - PVE and PVP
+dimwishlist:item=2171478765&perks=1482024992,3142289711,3038247973,1561789734 #notes:God Roll - PVE and PVP
+dimwishlist:item=2171478765&perks=1467527085,3142289711,3038247973,1561789734 #notes:God Roll - PVE and PVP
+dimwishlist:item=2171478765&perks=3038247973,1561789734 #notes:These are the perks you want in last two slots, Accurized for second slot and any +range barrel for first slot
 
 //Fatebringer (Timelost)
 //notes:God Roll
-dimwishlist:item=1216319404&perks=4090651448,3142289711,3038247973,1561789734
-dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,1561789734
-dimwishlist:item=1216319404&perks=1482024992,3142289711,3038247973,1561789734
-dimwishlist:item=1216319404&perks=1467527085,3142289711,3038247973,1561789734
+dimwishlist:item=1216319404&perks=4090651448,3142289711,3038247973,1561789734 #notes:God Roll - PVE and PVP
+dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,1561789734 #notes:God Roll - PVE and PVP
+dimwishlist:item=1216319404&perks=1482024992,3142289711,3038247973,1561789734 #notes:God Roll - PVE and PVP
+dimwishlist:item=1216319404&perks=1467527085,3142289711,3038247973,1561789734 #notes:God Roll - PVE and PVP
+dimwishlist:item=1216319404&perks=3038247973,1561789734 #notes:These are the perks you want in last two slots, Accurized for second slot and any +range barrel for first slot
 
 //Finite Impactor
 //notes:God Roll
@@ -2012,9 +2016,10 @@ dimwishlist:item=3593598010&perks=13792279,1087426260,2779035018,3425386926
 
 //Threaded Needle
 //notes:God Roll
-dimwishlist:item=3075224551&perks=1840239774,1687452232,2284787283,1546637391
-dimwishlist:item=3075224551&perks=839105230,1687452232,2284787283,1546637391
-dimwishlist:item=3075224551&perks=4090651448,1687452232,2284787283,1546637391
+dimwishlist:item=3075224551&perks=1840239774,1687452232,2284787283,1546637391 #notes:PvE God Roll
+dimwishlist:item=3075224551&perks=839105230,1687452232,2284787283,1546637391 #notes:PvE God Roll
+dimwishlist:item=3075224551&perks=4090651448,1687452232,2284787283,1546637391 #notes:PvE God Roll
+dimwishlist:item=3075224551&perks=2284787283,1546637391 #notes:3/4 perks are used in god roll - look for liquid coils first (barrel isnt to important for good roll)
 
 //Trinary System
 //notes:God Roll
@@ -2095,18 +2100,36 @@ dimwishlist:item=3366545721&perks=436053704,52780822,1749209109,354401740
 
 //Biting Winds
 //notes:God Roll
-dimwishlist:item=1621657423&perks=3768438372,2154191829,2450788523,3365897133
-dimwishlist:item=1621657423&perks=3768438372,2154191829,247725512,3365897133
-dimwishlist:item=1621657423&perks=3768438372,3429800428,2450788523,3365897133
-dimwishlist:item=1621657423&perks=3768438372,3429800428,247725512,3365897133
-dimwishlist:item=1621657423&perks=1196733167,2154191829,2450788523,3365897133
-dimwishlist:item=1621657423&perks=1196733167,2154191829,247725512,3365897133
-dimwishlist:item=1621657423&perks=1196733167,3429800428,2450788523,3365897133
-dimwishlist:item=1621657423&perks=1196733167,3429800428,247725512,3365897133
-dimwishlist:item=1621657423&perks=2801223209,2154191829,2450788523,3365897133
-dimwishlist:item=1621657423&perks=2801223209,2154191829,247725512,3365897133
-dimwishlist:item=1621657423&perks=2801223209,3429800428,2450788523,3365897133
-dimwishlist:item=1621657423&perks=2801223209,3429800428,247725512,3365897133
+dimwishlist:item=1621657423&perks=2801223209,3429800428,247725512,3365897133 #notes:God Roll
+dimwishlist:item=1621657423&perks=2801223209,3429800428,2450788523,3365897133 #notes:God Roll
+dimwishlist:item=1621657423&perks=2801223209,3429800428,706527188,3365897133 #notes:God Roll
+dimwishlist:item=1621657423&perks=2801223209,16392701,247725512,3365897133 #notes:God Roll
+dimwishlist:item=1621657423&perks=2801223209,16392701,2450788523,3365897133 #notes:God Roll
+dimwishlist:item=1621657423&perks=2801223209,16392701,706527188,3365897133 #notes:God Roll
+dimwishlist:item=1621657423&perks=2801223209,2154191829,247725512,3365897133 #notes:God Roll
+dimwishlist:item=1621657423&perks=2801223209,2154191829,2450788523,3365897133 #notes:God Roll
+dimwishlist:item=1621657423&perks=2801223209,2154191829,706527188,3365897133 #notes:God Roll
+dimwishlist:item=1621657423&perks=1196733167,3429800428,247725512,3365897133 #notes:God Roll
+dimwishlist:item=1621657423&perks=1196733167,3429800428,2450788523,3365897133 #notes:God Roll
+dimwishlist:item=1621657423&perks=1196733167,3429800428,706527188,3365897133 #notes:God Roll
+dimwishlist:item=1621657423&perks=1196733167,16392701,247725512,3365897133 #notes:God Roll
+dimwishlist:item=1621657423&perks=1196733167,16392701,2450788523,3365897133 #notes:God Roll
+dimwishlist:item=1621657423&perks=1196733167,16392701,706527188,3365897133 #notes:God Roll
+dimwishlist:item=1621657423&perks=1196733167,2154191829,247725512,3365897133 #notes:God Roll
+dimwishlist:item=1621657423&perks=1196733167,2154191829,2450788523,3365897133 #notes:God Roll
+dimwishlist:item=1621657423&perks=1196733167,2154191829,706527188,3365897133 #notes:God Roll
+dimwishlist:item=1621657423&perks=3768438372,3429800428,247725512,3365897133 #notes:God Roll
+dimwishlist:item=1621657423&perks=3768438372,3429800428,2450788523,3365897133 #notes:God Roll
+dimwishlist:item=1621657423&perks=3768438372,3429800428,706527188,3365897133 #notes:God Roll
+dimwishlist:item=1621657423&perks=3768438372,16392701,247725512,3365897133 #notes:God Roll
+dimwishlist:item=1621657423&perks=3768438372,16392701,2450788523,3365897133 #notes:God Roll
+dimwishlist:item=1621657423&perks=3768438372,16392701,706527188,3365897133 #notes:God Roll
+dimwishlist:item=1621657423&perks=3768438372,2154191829,247725512,3365897133 #notes:God Roll
+dimwishlist:item=1621657423&perks=3768438372,2154191829,2450788523,3365897133 #notes:God Roll
+dimwishlist:item=1621657423&perks=3768438372,2154191829,706527188,3365897133 #notes:God Roll
+dimwishlist:item=1621657423&perks=247725512,3365897133 #notes:3/4 perks are ideal - needs better 1/2 perks
+dimwishlist:item=1621657423&perks=2450788523,3365897133 #notes:3/4 perks are ideal - needs better 1/2 perks
+dimwishlist:item=1621657423&perks=706527188,3365897133 #notes:3/4 perks are ideal - needs better 1/2 perks
 
 //Blast Battue
 //notes:God Roll
@@ -2640,14 +2663,9 @@ dimwishlist:item=3143732432&perks=4090651448,1087426260,2779035018,3425386926
 
 //First In, Last Out
 //notes:God Roll
-dimwishlist:item=3616586446&perks=202670084,791862061,3300816228,1546637391
-dimwishlist:item=3616586446&perks=202670084,106909392,3300816228,1546637391
-dimwishlist:item=3616586446&perks=3250034553,791862061,3300816228,1546637391
-dimwishlist:item=3616586446&perks=3250034553,106909392,3300816228,1546637391
-dimwishlist:item=3616586446&perks=4090651448,791862061,3300816228,1546637391
-dimwishlist:item=3616586446&perks=4090651448,106909392,3300816228,1546637391
-dimwishlist:item=3616586446&perks=1467527085,791862061,3300816228,1546637391
-dimwishlist:item=3616586446&perks=1467527085,106909392,3300816228,1546637391
+dimwishlist:item=3616586446&perks=202670084,791862061,3300816228,1546637391 #notes:God roll for pve content, use this for any dual shotgun boss damage
+dimwishlist:item=3616586446&perks=202670084,106909392,3300816228,1546637391 #notes:Good roll for pve content, aim for Assault Mag as a upgrade (Boss Damage)
+dimwishlist:item=3616586446&perks=3300816228,1546637391 #notes:Good roll for pve content, aim for Full Bore/Assualt Mag as a upgrade (Boss Damage)
 
 //Hollow Words
 //notes:God Roll
@@ -2715,30 +2733,34 @@ dimwishlist:item=1096206669&perks=3250034553,3142289711,4071163871,806159697
 
 //IKELOS_SMG_v1.0.2
 //notes:God Roll
-dimwishlist:item=2222560548&perks=4090651448,1140096971,4071163871,3523296417
-dimwishlist:item=2222560548&perks=4090651448,1140096971,4071163871,3708227201
-dimwishlist:item=2222560548&perks=4090651448,1140096971,1820235745,3523296417
-dimwishlist:item=2222560548&perks=4090651448,1140096971,1820235745,3708227201
-dimwishlist:item=2222560548&perks=4090651448,106909392,4071163871,3523296417
-dimwishlist:item=2222560548&perks=4090651448,106909392,4071163871,3708227201
-dimwishlist:item=2222560548&perks=4090651448,106909392,1820235745,3523296417
-dimwishlist:item=2222560548&perks=4090651448,106909392,1820235745,3708227201
-dimwishlist:item=2222560548&perks=1482024992,1140096971,4071163871,3523296417
-dimwishlist:item=2222560548&perks=1482024992,1140096971,4071163871,3708227201
-dimwishlist:item=2222560548&perks=1482024992,1140096971,1820235745,3523296417
-dimwishlist:item=2222560548&perks=1482024992,1140096971,1820235745,3708227201
-dimwishlist:item=2222560548&perks=1482024992,106909392,4071163871,3523296417
-dimwishlist:item=2222560548&perks=1482024992,106909392,4071163871,3708227201
-dimwishlist:item=2222560548&perks=1482024992,106909392,1820235745,3523296417
-dimwishlist:item=2222560548&perks=1482024992,106909392,1820235745,3708227201
-dimwishlist:item=2222560548&perks=3661387068,1140096971,4071163871,3523296417
-dimwishlist:item=2222560548&perks=3661387068,1140096971,4071163871,3708227201
-dimwishlist:item=2222560548&perks=3661387068,1140096971,1820235745,3523296417
-dimwishlist:item=2222560548&perks=3661387068,1140096971,1820235745,3708227201
-dimwishlist:item=2222560548&perks=3661387068,106909392,4071163871,3523296417
-dimwishlist:item=2222560548&perks=3661387068,106909392,4071163871,3708227201
-dimwishlist:item=2222560548&perks=3661387068,106909392,1820235745,3523296417
-dimwishlist:item=2222560548&perks=3661387068,106909392,1820235745,3708227201
+dimwishlist:item=2222560548&perks=4090651448,1140096971,4071163871,3523296417 #notes:God Roll PvE
+dimwishlist:item=2222560548&perks=4090651448,1140096971,4071163871,3708227201 #notes:God Roll PvE
+dimwishlist:item=2222560548&perks=4090651448,1140096971,1820235745,3523296417 #notes:God Roll PvE
+dimwishlist:item=2222560548&perks=4090651448,1140096971,1820235745,3708227201 #notes:God Roll PvE
+dimwishlist:item=2222560548&perks=4090651448,106909392,4071163871,3523296417 #notes:God Roll PvE
+dimwishlist:item=2222560548&perks=4090651448,106909392,4071163871,3708227201 #notes:God Roll PvE
+dimwishlist:item=2222560548&perks=4090651448,106909392,1820235745,3523296417 #notes:God Roll PvE
+dimwishlist:item=2222560548&perks=4090651448,106909392,1820235745,3708227201 #notes:God Roll PvE
+dimwishlist:item=2222560548&perks=1482024992,1140096971,4071163871,3523296417 #notes:God Roll PvE
+dimwishlist:item=2222560548&perks=1482024992,1140096971,4071163871,3708227201 #notes:God Roll PvE
+dimwishlist:item=2222560548&perks=1482024992,1140096971,1820235745,3523296417 #notes:God Roll PvE
+dimwishlist:item=2222560548&perks=1482024992,1140096971,1820235745,3708227201 #notes:God Roll PvE
+dimwishlist:item=2222560548&perks=1482024992,106909392,4071163871,3523296417 #notes:God Roll PvE
+dimwishlist:item=2222560548&perks=1482024992,106909392,4071163871,3708227201 #notes:God Roll PvE
+dimwishlist:item=2222560548&perks=1482024992,106909392,1820235745,3523296417 #notes:God Roll PvE
+dimwishlist:item=2222560548&perks=1482024992,106909392,1820235745,3708227201 #notes:God Roll PvE
+dimwishlist:item=2222560548&perks=3250034553,1140096971,4071163871,3523296417 #notes:God Roll PvE
+dimwishlist:item=2222560548&perks=3250034553,1140096971,4071163871,3708227201 #notes:God Roll PvE
+dimwishlist:item=2222560548&perks=3250034553,1140096971,1820235745,3523296417 #notes:God Roll PvE
+dimwishlist:item=2222560548&perks=3250034553,1140096971,1820235745,3708227201 #notes:God Roll PvE
+dimwishlist:item=2222560548&perks=3250034553,106909392,4071163871,3523296417 #notes:God Roll PvE
+dimwishlist:item=2222560548&perks=3250034553,106909392,4071163871,3708227201 #notes:God Roll PvE
+dimwishlist:item=2222560548&perks=3250034553,106909392,1820235745,3523296417 #notes:God Roll PvE
+dimwishlist:item=2222560548&perks=3250034553,106909392,1820235745,3708227201 #notes:God Roll PvE
+dimwishlist:item=2222560548&perks=4071163871,3523296417 #notes:Good Roll look for better barrel/mag for the god roll
+dimwishlist:item=2222560548&perks=4071163871,3708227201 #notes:Good Roll look for better barrel/mag for the god roll
+dimwishlist:item=2222560548&perks=1820235745,3523296417 #notes:Good Roll look for better barrel/mag for the god roll
+dimwishlist:item=2222560548&perks=1820235745,3708227201 #notes:Good Roll look for better barrel/mag for the god roll
 
 //IKELOS_SR_v1.0.2
 //notes:God Roll
@@ -2891,42 +2913,18 @@ dimwishlist:item=1946491241&perks=1844523823,3032599245,3300816228,3523296417
 
 //Whispering Slab
 //notes:God Roll
-dimwishlist:item=211938782&perks=3768438372,2154191829,201365942,1546637391
-dimwishlist:item=211938782&perks=3768438372,2154191829,201365942,47981717
-dimwishlist:item=211938782&perks=3768438372,2154191829,201365942,4082225868
-dimwishlist:item=211938782&perks=3768438372,2154191829,2450788523,1546637391
-dimwishlist:item=211938782&perks=3768438372,2154191829,2450788523,47981717
-dimwishlist:item=211938782&perks=3768438372,2154191829,2450788523,4082225868
-dimwishlist:item=211938782&perks=3768438372,3429800428,201365942,1546637391
-dimwishlist:item=211938782&perks=3768438372,3429800428,201365942,47981717
-dimwishlist:item=211938782&perks=3768438372,3429800428,201365942,4082225868
-dimwishlist:item=211938782&perks=3768438372,3429800428,2450788523,1546637391
-dimwishlist:item=211938782&perks=3768438372,3429800428,2450788523,47981717
-dimwishlist:item=211938782&perks=3768438372,3429800428,2450788523,4082225868
-dimwishlist:item=211938782&perks=3768438372,16392701,201365942,1546637391
-dimwishlist:item=211938782&perks=3768438372,16392701,201365942,47981717
-dimwishlist:item=211938782&perks=3768438372,16392701,201365942,4082225868
-dimwishlist:item=211938782&perks=3768438372,16392701,2450788523,1546637391
-dimwishlist:item=211938782&perks=3768438372,16392701,2450788523,47981717
-dimwishlist:item=211938782&perks=3768438372,16392701,2450788523,4082225868
-dimwishlist:item=211938782&perks=1196733167,2154191829,201365942,1546637391
-dimwishlist:item=211938782&perks=1196733167,2154191829,201365942,47981717
-dimwishlist:item=211938782&perks=1196733167,2154191829,201365942,4082225868
-dimwishlist:item=211938782&perks=1196733167,2154191829,2450788523,1546637391
-dimwishlist:item=211938782&perks=1196733167,2154191829,2450788523,47981717
-dimwishlist:item=211938782&perks=1196733167,2154191829,2450788523,4082225868
-dimwishlist:item=211938782&perks=1196733167,3429800428,201365942,1546637391
-dimwishlist:item=211938782&perks=1196733167,3429800428,201365942,47981717
-dimwishlist:item=211938782&perks=1196733167,3429800428,201365942,4082225868
-dimwishlist:item=211938782&perks=1196733167,3429800428,2450788523,1546637391
-dimwishlist:item=211938782&perks=1196733167,3429800428,2450788523,47981717
-dimwishlist:item=211938782&perks=1196733167,3429800428,2450788523,4082225868
-dimwishlist:item=211938782&perks=1196733167,16392701,201365942,1546637391
-dimwishlist:item=211938782&perks=1196733167,16392701,201365942,47981717
-dimwishlist:item=211938782&perks=1196733167,16392701,201365942,4082225868
-dimwishlist:item=211938782&perks=1196733167,16392701,2450788523,1546637391
-dimwishlist:item=211938782&perks=1196733167,16392701,2450788523,47981717
-dimwishlist:item=211938782&perks=1196733167,16392701,2450788523,4082225868
+dimwishlist:item=211938782&perks=1196733167,3429800428,2450788523,1546637391 #notes:God Roll for PvE
+dimwishlist:item=211938782&perks=1196733167,3429800428,2450788523,4082225868 #notes:God Roll for PvE
+dimwishlist:item=211938782&perks=1196733167,3429800428,2450788523,3523296417 #notes:God Roll for PvE
+dimwishlist:item=211938782&perks=1196733167,3429800428,201365942,1546637391 #notes:God Roll for PvE
+dimwishlist:item=211938782&perks=1196733167,3429800428,201365942,4082225868 #notes:God Roll for PvE
+dimwishlist:item=211938782&perks=1196733167,3429800428,201365942,3523296417 #notes:God Roll for PvE
+dimwishlist:item=211938782&perks=2450788523,1546637391 #notes:Good Roll Look for Tactile/Fiberglass on 1/2 column perks
+dimwishlist:item=211938782&perks=2450788523,4082225868 #notes:Good Roll Look for Tactile/Fiberglass on 1/2 column perks
+dimwishlist:item=211938782&perks=2450788523,3523296417 #notes:Good Roll Look for Tactile/Fiberglass on 1/2 column perks
+dimwishlist:item=211938782&perks=201365942,1546637391 #notes:Good Roll Look for Tactile/Fiberglass on 1/2 column perks
+dimwishlist:item=211938782&perks=201365942,4082225868 #notes:Good Roll Look for Tactile/Fiberglass on 1/2 column perks
+dimwishlist:item=211938782&perks=201365942,3523296417 #notes:Good Roll Look for Tactile/Fiberglass on 1/2 column perks
 
 //Widow's Bite
 //notes:God Roll
@@ -4323,10 +4321,10 @@ dimwishlist:item=334171687&perks=1926090094,1885400500,1168162263,47981717
 dimwishlist:item=334171687&perks=1926090094,1885400500,1168162263,957782887
 
 
-//Season 2
-
-
 //Season 3
+
+
+//Season 2
 
 
 //Season 1
@@ -4336,9 +4334,9 @@ dimwishlist:item=334171687&perks=1926090094,1885400500,1168162263,957782887
 
 //First In, Last Out
 //notes:God Roll
-dimwishlist:item=3616586446&perks=202670084,791862061,3300816228,1546637391
-dimwishlist:item=3616586446&perks=3250034553,791862061,3300816228,1546637391
-dimwishlist:item=3616586446&perks=4090651448,791862061,3300816228,1546637391
+dimwishlist:item=3616586446&perks=202670084,791862061,3300816228,1546637391 #notes:God roll for pve content, use this for any dual shotgun boss damage
+dimwishlist:item=3616586446&perks=3250034553,791862061,3300816228,1546637391 #notes:Good roll for pve content, aim for Full Bore barrel as a upgrade (Boss Damage)
+dimwishlist:item=3616586446&perks=4090651448,791862061,3300816228,1546637391 #notes:Good roll for pve content, aim for Full Bore barrel as a upgrade (Boss Damage)
 
 //MIDA Mini-Tool
 //notes:God Roll
@@ -4347,3 +4345,30 @@ dimwishlist:item=3616586446&perks=4090651448,791862061,3300816228,1546637391
 //notes:God Roll
 dimwishlist:item=287042892&perks=436053704,52780822,1749209109,3913600130
 dimwishlist:item=287042892&perks=436053704,3625355092,1749209109,3913600130
+
+
+//Exotic
+
+//Dead Man's Tale
+//notes:God Roll
+dimwishlist:item=3654674561&perks=3250034553,3142289711,1546637391 #notes:DMT can have and stock you like, is up to personal preference
+dimwishlist:item=3654674561&perks=3250034553,1885400500,1546637391 #notes:DMT can have and stock you like, is up to personal preference
+dimwishlist:item=3654674561&perks=3250034553,1968497646,1546637391 #notes:DMT can have and stock you like, is up to personal preference
+dimwishlist:item=3654674561&perks=3250034553,1561002382,1546637391 #notes:DMT can have and stock you like, is up to personal preference
+dimwishlist:item=3654674561&perks=1482024992,3142289711,1546637391 #notes:DMT can have and stock you like, is up to personal preference
+dimwishlist:item=3654674561&perks=1482024992,1885400500,1546637391 #notes:DMT can have and stock you like, is up to personal preference
+dimwishlist:item=3654674561&perks=1482024992,1968497646,1546637391 #notes:DMT can have and stock you like, is up to personal preference
+dimwishlist:item=3654674561&perks=1482024992,1561002382,1546637391 #notes:DMT can have and stock you like, is up to personal preference
+dimwishlist:item=3654674561&perks=4090651448,3142289711,1546637391 #notes:DMT can have and stock you like, is up to personal preference
+dimwishlist:item=3654674561&perks=4090651448,1885400500,1546637391 #notes:DMT can have and stock you like, is up to personal preference
+dimwishlist:item=3654674561&perks=4090651448,1968497646,1546637391 #notes:DMT can have and stock you like, is up to personal preference
+dimwishlist:item=3654674561&perks=4090651448,1561002382,1546637391 #notes:DMT can have and stock you like, is up to personal preference
+
+//Hawkmoon
+//notes:God Roll
+dimwishlist:item=3856705927&perks=3250034553,1431678320,2846385770 #notes:Can have any grip, is up to personal preference
+dimwishlist:item=3856705927&perks=3250034553,1431678320,47981717 #notes:Can have any grip, is up to personal preference
+dimwishlist:item=3856705927&perks=1482024992,1431678320,2846385770 #notes:Can have any grip, is up to personal preference
+dimwishlist:item=3856705927&perks=1482024992,1431678320,47981717 #notes:Can have any grip, is up to personal preference
+dimwishlist:item=3856705927&perks=4090651448,1431678320,2846385770 #notes:Can have any grip, is up to personal preference
+dimwishlist:item=3856705927&perks=4090651448,1431678320,47981717 #notes:Can have any grip, is up to personal preference
